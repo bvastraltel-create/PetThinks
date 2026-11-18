@@ -9,7 +9,7 @@
     "via_aplicacion": "Subcutánea (1 ml)",
     "imagen": "assets/img/vacunas_perros/cachorro/1ra-2da_dosis.jpg",
     "resumen": "Día 0 | Subcutánea (1 ml) | Parvovirus y Moquillo.",
-    "descripcion": "Primera dosis obligatoria que marca el Día 0 del calendario. Protege contra Parvovirus y Moquillo (Distemper)."
+    "descripcion": "Primera dosis obligatoria que marca el Día 0 del calendario. Protege contra Parvovirus canino y Moquillo (Distemper)."
   },
   {
     "id": "vacuna-cachorro-2",
@@ -21,7 +21,7 @@
     "via_aplicacion": "Subcutánea (1 ml)",
     "imagen": "assets/img/vacunas_perros/cachorro/1ra-2da_dosis.jpg",
     "resumen": "Día 15 (+15 días) | Subcutánea (1 ml) | Refuerzo Parvovirus y Moquillo.",
-    "descripcion": "Segunda dosis aplicada exactamente 15 días después del inicio para reforzar la inmunidad contra Parvovirus y Moquillo."
+    "descripcion": "Segunda dosis aplicada exactamente 15 días después del inicio para reforzar la inmunidad contra Parvovirus canino y Moquillo (Distemper)."
   },
   {
     "id": "vacuna-cachorro-3",
@@ -33,7 +33,7 @@
     "via_aplicacion": "Subcutánea (1 ml)",
     "imagen": "assets/img/vacunas_perros/cachorro/3ra-4ta_dosis.jpg",
     "resumen": "Día 30 (+15 días) | Subcutánea (1 ml) | Quíntuple + Leptospirosis.",
-    "descripcion": "Tercera dosis del esquema. Vacuna múltiple que protege contra Moquillo, Hepatitis infecciosa, Parvovirus, Parainfluenza y Leptospirosis (4 cepas)."
+    "descripcion": "Tercera dosis del esquema. Protege contra Moquillo (Distemper), Hepatitis infecciosa (Adenovirus), Parvovirus, Parainfluenza y Leptospirosis (4 serogrupos)."
   },
   {
     "id": "vacuna-cachorro-4",
@@ -45,7 +45,7 @@
     "via_aplicacion": "Subcutánea (1 ml)",
     "imagen": "assets/img/vacunas_perros/cachorro/3ra-4ta_dosis.jpg",
     "resumen": "Día 45 (+15 días) | Subcutánea (1 ml) | Refuerzo Quíntuple + Leptospirosis.",
-    "descripcion": "Cuarta dosis aplicada 15 días después para consolidar la memoria inmunológica contra enfermedades virales y leptospirosis."
+    "descripcion": "Cuarta dosis aplicada 15 días después para consolidar la memoria inmunológica contra Moquillo, Hepatitis infecciosa, Parvovirus, Parainfluenza y Leptospirosis (4 serogrupos)."
   },
   {
     "id": "vacuna-cachorro-5",
@@ -63,37 +63,37 @@
     "id": "vacuna-cachorro-6",
     "tipo": "perro",
     "categoria": "cachorro",
-    "titulo": "6.ª Dosis: Vacuna Antirrábica (RL)",
+    "titulo": "6.ª Dosis: Nobivac® Rabia",
     "laboratorio": "MSD",
     "fecha_aplicacion": "Día 75 (+15 días)",
     "via_aplicacion": "Subcutánea (1 ml)",
     "imagen": "assets/img/vacunas_perros/cachorro/6ta_dosis.jpg",
     "resumen": "Día 75 (+15 días) | Subcutánea (1 ml) | Rabia (Aislada).",
-    "descripcion": "Sexta y última dosis del esquema de cachorro. Se aplica de forma individual y aislada para proteger contra la Rabia."
+    "descripcion": "Sexta y última dosis del esquema de cachorro. Se aplica de forma individual y aislada para inmunizar exclusivamente contra el virus de la Rabia."
   },
   {
     "id": "vacuna-adulto-1",
     "tipo": "perro",
     "categoria": "adulto",
-    "titulo": "Refuerzo Adulto (Fase 1): Múltiple DHPPi + L4",
+    "titulo": "Refuerzo Adulto (Fase 1): Nobivac® DHPPi + L4",
     "laboratorio": "MSD",
     "fecha_aplicacion": "A los 6 meses de la 6.ª dosis (Rabia)",
     "via_aplicacion": "Subcutánea (1 ml)",
     "imagen": "assets/img/vacunas_perros/adulto/multiple.jpg",
     "resumen": "A los 6 meses | Subcutánea (1 ml) | Quíntuple y Leptospirosis.",
-    "descripcion": "Primer paso del mantenimiento adulto. Debe aplicarse de forma continua en este orden exacto para mantener la inmunidad activa."
+    "descripcion": "Primer paso del mantenimiento adulto. Debe aplicarse de forma continua en este orden para proteger contra Moquillo, Hepatitis infecciosa, Parvovirus, Parainfluenza y Leptospirosis (4 serogrupos)."
   },
   {
     "id": "vacuna-adulto-2",
     "tipo": "perro",
     "categoria": "adulto",
-    "titulo": "Refuerzo Adulto (Fase 2): Múltiple con Rabia",
+    "titulo": "Refuerzo Adulto (Fase 2): Nobivac® DHPPi + RL",
     "laboratorio": "MSD",
     "fecha_aplicacion": "Al año del ciclo adulto",
     "via_aplicacion": "Subcutánea (1 ml)",
     "imagen": "assets/img/vacunas_perros/adulto/Multiple-rabia.jpg",
-    "resumen": "Al año | Subcutánea (1 ml) | Múltiple con Rabia.",
-    "descripcion": "Segundo paso del ciclo continuo: aplicación anual conjunta de la vacuna múltiple junto con la rabia."
+    "resumen": "Al año | Subcutánea (1 ml) | Múltiple con Leptospirosis y Rabia.",
+    "descripcion": "Segundo paso del ciclo continuo: aplicación anual conjunta que inmuniza contra Moquillo, Hepatitis infecciosa, Parvovirus, Parainfluenza, Leptospirosis y Rabia."
   },
   {
     "id": "vacuna-adulto-3",
@@ -105,6 +105,6 @@
     "via_aplicacion": "Subcutánea (1 ml)",
     "imagen": "assets/img/vacunas_perros/adulto/bordetela.jpg",
     "resumen": "15 días después | Subcutánea (1 ml) | Tos de las perreras (Se cicla cada año).",
-    "descripcion": "Tercer y último paso del bloque anual. Cierra el ciclo actual y se repite continuamente año con año siguiendo este mismo orden secuencial."
+    "descripcion": "Tercer y último paso del bloque anual para prevenir la Tos de las perreras (Bordetella bronchiseptica). Cierra el ciclo actual y se repite continuamente año con año en este mismo orden."
   }
 ]
