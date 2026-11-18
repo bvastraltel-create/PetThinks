@@ -1,0 +1,86 @@
+[
+  {
+    "id": "vacuna-cachorro-1",
+    "tipo": "perro",
+    "categoria": "cachorro",
+    "titulo": "1.ª y 2.ª Dosis: Nobivac® Puppy DP PLUS",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Semanas 6 y 8 (+15 días)",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_perros/cachorro/1ra-2da_dosis.jpg",
+    "resumen": "Semanas 6 y 8 | Subcutánea (1 ml) | Parvovirus y Moquillo.",
+    "descripcion": "Bloque inicial del cachorro. Protege contra Parvovirus y Moquillo (Distemper). Incluye su respectivo refuerzo a los 15 días."
+  },
+  {
+    "id": "vacuna-cachorro-2",
+    "tipo": "perro",
+    "categoria": "cachorro",
+    "titulo": "3.ª y 4.ª Dosis: Nobivac® DHPPi + L4",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Semanas 10 y 12 (+15 días)",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_perros/cachorro/3ra-4ta_dosis.jpg",
+    "resumen": "Semanas 10 y 12 | Subcutánea (1 ml) | Quíntuple + Leptospirosis.",
+    "descripcion": "Vacuna múltiple que protege contra Moquillo, Hepatitis, Parvovirus, Parainfluenza y Leptospirosis (4 cepas), con su respectivo refuerzo."
+  },
+  {
+    "id": "vacuna-cachorro-3",
+    "tipo": "perro",
+    "categoria": "cachorro",
+    "titulo": "5.ª Dosis: Nobivac® Respira Bb",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Semana 14 (+15 días)",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_perros/cachorro/5ta_dosis.jpg",
+    "resumen": "Semana 14 | Subcutánea (1 ml) | Tos de las perreras (Bordetella).",
+    "descripcion": "Dosis inyectable para prevenir la Tos de las perreras (Traqueobronquitis infecciosa causada por Bordetella bronchiseptica)."
+  },
+  {
+    "id": "vacuna-cachorro-4",
+    "tipo": "perro",
+    "categoria": "cachorro",
+    "titulo": "6.ª Dosis: Vacuna Antirrábica (RL)",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Semana 16 (+15 días)",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_perros/cachorro/6ta_dosis.jpg",
+    "resumen": "Semana 16 | Subcutánea (1 ml) | Rabia (Aislada).",
+    "descripcion": "Aplicación de la vacuna contra la Rabia de forma individual y aislada para cerrar el esquema inicial de cachorro."
+  },
+  {
+    "id": "vacuna-adulto-1",
+    "tipo": "perro",
+    "categoria": "adulto",
+    "titulo": "Refuerzo Adulto (Fase 1): Múltiple DHPPi + L4",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "A los 6 meses de la última dosis de cachorro",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_perros/adulto/multiple.jpg",
+    "resumen": "A los 6 meses | Subcutánea (1 ml) | Quíntuple y Leptospirosis.",
+    "descripcion": "Primer paso del mantenimiento adulto. Debe aplicarse de forma continua en este orden exacto para mantener la inmunidad activa."
+  },
+  {
+    "id": "vacuna-adulto-2",
+    "tipo": "perro",
+    "categoria": "adulto",
+    "titulo": "Refuerzo Adulto (Fase 2): Múltiple con Rabia",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Al año del ciclo adulto",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_perros/adulto/Multiple-rabia.jpg",
+    "resumen": "Al año | Subcutánea (1 ml) | Múltiple con Rabia.",
+    "descripcion": "Segundo paso del ciclo continuo: aplicación anual conjunta de la vacuna múltiple junto con la rabia."
+  },
+  {
+    "id": "vacuna-adulto-3",
+    "tipo": "perro",
+    "categoria": "adulto",
+    "titulo": "Refuerzo Adulto (Fase 3): Nobivac® Respira Bb",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "15 días después de la múltiple con rabia",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_perros/adulto/bordetela.jpg",
+    "resumen": "15 días después | Subcutánea (1 ml) | Tos de las perreras (Se cicla cada año).",
+    "descripcion": "Tercer y último paso del bloque anual. Cierra el ciclo actual y se repite continuamente año con año siguiendo este mismo orden secuencial."
+  }
+]
