@@ -1,0 +1,98 @@
+[
+  {
+    "id": "vacuna-gato-cachorro-1",
+    "tipo": "gato",
+    "categoria": "cachorro",
+    "titulo": "1.ª Dosis: Nobivac® Tricat Trio",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Semana 6 / Mes y medio (Día 0 - Inicio del esquema)",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_gatos/vacuna_minino/1ra-2da_dosis.jpg",
+    "resumen": "Semana 6 (Día 0) | Subcutánea (1 ml) | Triple Felina.",
+    "descripcion": "Primera dosis obligatoria que marca el inicio del esquema a las 6 semanas de edad. Protege contra Rinotraqueítis viral felina (Herpesvirus), Calicivirus felino y Panleucopenia felina."
+  },
+  {
+    "id": "vacuna-gato-cachorro-2",
+    "tipo": "gato",
+    "categoria": "cachorro",
+    "titulo": "2.ª Dosis: Nobivac® Tricat Trio (Refuerzo)",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Día 15 (+15 días)",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_gatos/vacuna_minino/1ra-2da_dosis.jpg",
+    "resumen": "Día 15 (+15 días) | Subcutánea (1 ml) | Refuerzo Triple Felina.",
+    "descripcion": "Segunda dosis aplicada exactamente 15 días después de la primera para reforzar y consolidar la inmunidad contra Rinotraqueítis viral felina, Calicivirus y Panleucopenia."
+  },
+  {
+    "id": "vacuna-gato-cachorro-3",
+    "tipo": "gato",
+    "categoria": "cachorro",
+    "titulo": "3.ª Dosis: Nobivac® Rabia",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Día 30 (+15 días)",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_gatos/vacuna_minino/3ra_dosis.jpg",
+    "resumen": "Día 30 (+15 días) | Subcutánea (1 ml) | Rabia (Aislada).",
+    "descripcion": "Tercera dosis del esquema aplicada 15 días después del refuerzo de triple felina. Inmuniza de forma individual contra el virus de la Rabia."
+  },
+  {
+    "id": "vacuna-gato-cachorro-4",
+    "tipo": "gato",
+    "categoria": "cachorro",
+    "titulo": "4.ª Dosis: Nobivac® FeLV",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Día 45 (+15 días)",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_gatos/vacuna_minino/4ta-5ta_dosis.jpg",
+    "resumen": "Día 45 (+15 días) | Subcutánea (1 ml) | Leucemia Felina.",
+    "descripcion": "Cuarta dosis aplicada 15 días después de la rabia. Protege contra el virus de la Leucemia Felina (ViLeF / FeLV). Se recomienda prueba rápida negativa antes de su primera aplicación."
+  },
+  {
+    "id": "vacuna-gato-cachorro-5",
+    "tipo": "gato",
+    "categoria": "cachorro",
+    "titulo": "5.ª Dosis: Nobivac® FeLV (Refuerzo)",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Día 60 (+15 días)",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_gatos/vacuna_minino/4ta-5ta_dosis.jpg",
+    "resumen": "Día 60 (+15 días) | Subcutánea (1 ml) | Refuerzo Leucemia Felina.",
+    "descripcion": "Quinta y última dosis del bloque inicial de minino, aplicada 15 días después para asegurar la protección contra la Leucemia Felina."
+  },
+  {
+    "id": "vacuna-gato-adulto-1",
+    "tipo": "gato",
+    "categoria": "adulto",
+    "titulo": "Refuerzo Adulto (Fase 1): Nobivac® Tricat Trio",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "Al año de la 5.ª dosis de minino",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_gatos/adulto/triple_felina.jpg",
+    "resumen": "Al año (Inicio del ciclo) | Subcutánea (1 ml) | Triple Felina.",
+    "descripcion": "Primer paso del ciclo anual adulto (en esta etapa ya no lleva refuerzo doble). Protege contra Rinotraqueítis viral felina, Calicivirus y Panleucopenia felina."
+  },
+  {
+    "id": "vacuna-gato-adulto-2",
+    "tipo": "gato",
+    "categoria": "adulto",
+    "titulo": "Refuerzo Adulto (Fase 2): Nobivac® Rabia",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "15 días después de la Triple Felina",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_gatos/adulto/rabia.jpg",
+    "resumen": "15 días después | Subcutánea (1 ml) | Rabia (Aislada).",
+    "descripcion": "Segundo paso del ciclo continuo: aplicación anual de la vacuna antirrábica de forma individual para mantener la inmunidad contra el virus de la Rabia."
+  },
+  {
+    "id": "vacuna-gato-adulto-3",
+    "tipo": "gato",
+    "categoria": "adulto",
+    "titulo": "Refuerzo Adulto (Fase 3): Nobivac® FeLV",
+    "laboratorio": "MSD",
+    "fecha_aplicacion": "15 días después de la vacuna de Rabia",
+    "via_aplicacion": "Subcutánea (1 ml)",
+    "imagen": "assets/img/vacunas_gatos/adulto/leucemia.jpg",
+    "resumen": "15 días después | Subcutánea (1 ml) | Leucemia Felina (Se cicla cada año).",
+    "descripcion": "Tercer y último paso del bloque anual (dosis única, sin refuerzo). Protege contra la Leucemia Felina. Al aplicarse, se espera 1 año completo para repetir las 3 vacunas en este mismo orden."
+  }
+]
